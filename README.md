@@ -24,7 +24,7 @@ Through this project, I learned how to:
 ## Demo & Presentation
 
 Presentation: https://gamma.app/docs/Charans-Heart-Disease-Prediction-Toolkit-7vxxkg53iewz660
-Demo video will be added soon!
+Demo video : https://drive.google.com/file/d/1GmMGwO-M09sq94DGsX9S8d9kRzKLU0U3/view?usp=drive_link
 
 ## Portfolio & Contact
 
